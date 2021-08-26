@@ -1,7 +1,7 @@
 import math
 def main():
     #escribe tu código abajo de esta línea
-    num = float(input(": "))
+    num = float(input("Ingresa un numero: "))
     
     if num == 0:
       print("Es cero")
